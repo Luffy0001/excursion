@@ -10,3 +10,31 @@ header {
     text-align: center;
     color: white;
 }
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.sales_pitch {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
